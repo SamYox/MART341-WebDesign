@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Sam Yoxsimer MART341-WebDesign
 Repository for my "Introduction to Web Design &amp; Development" homework
