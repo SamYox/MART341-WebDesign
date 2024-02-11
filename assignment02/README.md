@@ -17,5 +17,5 @@ I can also create paragraphs
 I can also do [absoluteURLs](https://github.com/SamYox/MART341-WebDesign/new/main)
 and [relativeURLs](./README.md)
 
-i can also incude images ![image](netOfBeing.png)
+i can also incude images ![image](netOfBeing.jpg)
 
