@@ -8,5 +8,4 @@ Assignment 5 was about practicing *html* language
 
 I cloned my repository for the class onto my desktop
 
-This is the screenshot of my cloned repo ![image](repoScreenshot.jpg)
-
+This is the screenshot of my cloned repo ![image](images/repoScreenshot.jpg)
